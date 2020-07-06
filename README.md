@@ -1,2 +1,3 @@
-# bluetoothControl
-Terminal app, for UNIX system, for control bluetooth, supports on Raspberry Pi
+install python sudo apt-get install
+python3 sudo python3
+bluetoothControl.py
